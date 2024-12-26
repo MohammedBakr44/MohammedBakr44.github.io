@@ -2,11 +2,11 @@ import type { Site, SocialObjects } from "./types";
 
 export const SITE: Site = {
   website: "https://astro-paper.pages.dev/", // replace this with your deployed domain
-  author: "Sat Naing",
-  profile: "https://satnaing.dev/",
-  desc: "A minimal, responsive and SEO-friendly Astro blog theme.",
-  title: "AstroPaper",
-  ogImage: "astropaper-og.jpg",
+  author: "Mohamed Bakr",
+  profile: "https://github.com/MohammedBakr44/",
+  desc: "A blog where I post/rant about stuff",
+  title: "0x5F3759DF",
+  ogImage: "anime-og.jpg",
   lightAndDarkMode: true,
   postPerIndex: 4,
   postPerPage: 3,
@@ -34,7 +34,7 @@ export const LOGO_IMAGE = {
 export const SOCIALS: SocialObjects = [
   {
     name: "Github",
-    href: "https://github.com/satnaing/astro-paper",
+    href: "https://github.com/MohammedBakr44/",
     linkTitle: ` ${SITE.title} on Github`,
     active: true,
   },
@@ -42,17 +42,17 @@ export const SOCIALS: SocialObjects = [
     name: "Facebook",
     href: "https://github.com/satnaing/astro-paper",
     linkTitle: `${SITE.title} on Facebook`,
-    active: true,
+    active: false,
   },
   {
     name: "Instagram",
     href: "https://github.com/satnaing/astro-paper",
     linkTitle: `${SITE.title} on Instagram`,
-    active: true,
+    active: false,
   },
   {
     name: "LinkedIn",
-    href: "https://github.com/satnaing/astro-paper",
+    href: "https://www.linkedin.com/in/mohamed-bakr-357406147/",
     linkTitle: `${SITE.title} on LinkedIn`,
     active: true,
   },
@@ -64,9 +64,27 @@ export const SOCIALS: SocialObjects = [
   },
   {
     name: "X",
-    href: "https://github.com/satnaing/astro-paper",
+    href: "https://x.com/mobile_bakr",
     linkTitle: `${SITE.title} on X`,
-    active: false,
+    active: true,
+  },
+  {
+    name: 'htb',
+    href: "https://app.hackthebox.com/profile/2180303",
+    linkTitle: `${SITE.title} on hackthebox`,
+    active: true
+  },
+  {
+    name: 'thm',
+    href: "https://tryhackme.com/r/p/0xreizouko",
+    linkTitle: `${SITE.title} on tryhackme`,
+    active: true
+  },
+  {
+    name: 'talents',
+    href: "https://cybertalents.com/members/reizouko/profile",
+    linkTitle: `${SITE.title} on CyberTalents`,
+    active: true
   },
   {
     name: "Twitch",
