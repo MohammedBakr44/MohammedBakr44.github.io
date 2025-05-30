@@ -2,7 +2,6 @@
 author: Mohamed Bakr
 pubDatetime: 2025-03-30T03:41:36.086Z
 title: Web Enumeration
-featured: true
 draft: false
 tags:
     - CPTS
