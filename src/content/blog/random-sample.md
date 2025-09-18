@@ -2,8 +2,8 @@
 author: Mohamed Bakr
 pubDatetime: 2024-12-26T09:42:27+02:00
 title: Analysing a random malware sample
-featured: true
-draft: false
+featured: false
+draft: true 
 tags:
     - reverse engineeing
     - malware analysis

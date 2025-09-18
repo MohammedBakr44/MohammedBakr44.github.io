@@ -2,8 +2,8 @@
 author: Mohamed Bakr
 pubDatetime: 2025-03-29T03:41:36.086Z
 title: Pentesting Process
-featured: true
-draft: false
+featured: false 
+draft: true
 tags:
     - CPTS
     - Getting Started
