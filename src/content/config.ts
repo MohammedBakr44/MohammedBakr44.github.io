@@ -19,7 +19,8 @@ const blog = defineCollection({
           message: "OpenGraph image must be at least 1200 X 630 pixels!",
         })
         .or(z.string())
-        .optional(),
+        .optional()
+        .default(SITE.ogImage),
       description: z.string(),
       canonicalURL: z.string().optional(),
       editPost: z

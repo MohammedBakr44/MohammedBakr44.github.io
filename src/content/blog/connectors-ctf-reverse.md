@@ -4,7 +4,7 @@ pubDatetime: 2025-09-19T01:50:51+03:00
 title: Connectors' CTF RE writeup 
 featured: true
 draft: false 
-ogImage: https://cdn.imgchest.com/files/66e0cd48d5da.jpg
+ogImage: "https://cdn.imgchest.com/files/66e0cd48d5da.jpg"
 tags:
     - CTF
     - Reverse Engineering
