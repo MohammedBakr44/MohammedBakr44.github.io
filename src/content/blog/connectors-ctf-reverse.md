@@ -1,6 +1,6 @@
 ---
 author: Mohamed Bakr
-pubDatetime: 2025-03-29T03:41:36.086Z
+pubDatetime: 2025-09-19T01:50:51+03:00
 title: Connectors' CTF RE writeup 
 featured: true
 draft: false 
