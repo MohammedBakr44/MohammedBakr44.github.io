@@ -52,7 +52,7 @@ Expanding game objects and checking properties for `Obj_rock_big` I found a coll
 
 ![](https://cdn.imgchest.com/files/e91aee9826f9.png)
 
-We can see it has a collision event with the player's sprite. After removing the event we don't have a collision with the rock but it wasn't enough to beat the 3rd level.
+We can see it has a collision event with the rock's sprite. After removing the event we don't have a collision with the rock but it wasn't enough to beat the 3rd level.
 
 ![](https://cdn.imgchest.com/files/e248a298a9eb.png)
 
